@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili Utilities
 // @namespace    https://github.com/MagicKong21/bilibili-utilities
-// @version      0.0.1
+// @version      0.0.2
 // @author       Hugo
 // @description  Simplify Bilibili header and export video collection links (AcFun/Bilibili)
 // @match        *://*.bilibili.com/*
