@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bilibili Utilities
-// @namespace    https://github.com/
+// @namespace    https://github.com/MagicKong21/bilibili-utilities
 // @version      0.0.1
 // @author       Hugo
 // @description  Simplify Bilibili header and export video collection links (AcFun/Bilibili)
@@ -9,6 +9,7 @@
 // @grant        GM_addStyle
 // @grant        GM_download
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 (function() {
