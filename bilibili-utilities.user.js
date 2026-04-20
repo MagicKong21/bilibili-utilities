@@ -3,7 +3,7 @@
 // @namespace    https://github.com/MagicKong21/bilibili-utilities
 // @version      0.0.2
 // @author       Hugo
-// @description  Simplify Bilibili header and export video collection links (AcFun/Bilibili)
+// @description  哔哩哔哩顶栏精简 + 增加一键导出合集链接功能
 // @match        *://*.bilibili.com/*
 // @match        *://*.acfun.cn/*
 // @grant        GM_addStyle
