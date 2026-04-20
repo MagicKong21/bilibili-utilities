@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bilibili Utilities
+// @name         精简B站顶栏+批量导出合集视频链接
 // @namespace    https://github.com/MagicKong21/bilibili-utilities
 // @version      0.0.2
 // @author       Hugo
